@@ -2,5 +2,18 @@
 
 html {
   font-size: 16px;
+}
+
+body {
+  padding: 4.5em;
+  vertical-align: baseline;
+}
+
+p {
   line-height: 1em;
+}
+
+h1 {
+  font-size: 48px;
+  color: blue;
 }
