@@ -1,4 +1,9 @@
+/*=========*/
+/* IMPORTS*/
+/*=========*/
 @import url("meyer-reset.css");
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600);
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic);
 
 html {
   font-size: 16px;
@@ -6,14 +11,25 @@ html {
 
 body {
   padding: 4.5em;
-  vertical-align: baseline;
+  font-family: 'Gentium Book Basic', serif;
 }
 
 p {
-  line-height: 1em;
+  line-height: 1.5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 
 h1 {
-  font-size: 48px;
-  color: blue;
+  font-size: 2em;
+  line-height: 1.5em;
+  margin-bottom: 1.5em;
 }
