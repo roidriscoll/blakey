@@ -1,3 +1,3 @@
-# Blakey
+# My name is blakey.
 
-First foray into the world of Vertical Rhythm
+I represent [Roi](http://github.com/roidriscoll) and [Mervé's](http://github.com/Mervodactyl) first foray into __vertical rhythm__.
