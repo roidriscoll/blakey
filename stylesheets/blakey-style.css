@@ -13,7 +13,7 @@ body {
 }
 
 .wrapper {
-  width: 60em;
+  width: 39em;
   margin: 0 auto;
 }
 
@@ -22,7 +22,7 @@ p {
   margin-bottom: 1.5em;
 }
 
-p:last-of-type {
+.wrapper *:last-child {
   margin-bottom: 3em;
   background: salmon;
 }
